@@ -1,0 +1,26 @@
+.table {
+  margin: 1em auto;
+  max-width: 800px;
+  box-shadow: 10px 10px 20px black;
+}
+#tableBody {
+  margin: 1em auto;
+  max-width: 200px;
+}
+
+h1 {
+  margin: 1em auto;
+  margin-left: 653px;
+  max-width: 800px;
+  color: gold;
+  font-style: italic;
+}
+
+td {
+  width: 400px;
+}
+
+th {
+  color: lightgray;
+  background-color: #4c4c4c;
+}
