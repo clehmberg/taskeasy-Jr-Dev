@@ -2,6 +2,7 @@
   margin: 1em auto;
   max-width: 800px;
   box-shadow: 10px 10px 20px black;
+  background-color: lightgray;
 }
 #tableBody {
   margin: 1em auto;
@@ -10,10 +11,12 @@
 
 h1 {
   margin: 1em auto;
-  margin-left: 653px;
+  margin-left: 430px;
   max-width: 800px;
   color: gold;
   font-style: italic;
+  text-decoration: underline;
+  text-shadow: 2px 2px darkgoldenrod;
 }
 
 td {
@@ -23,4 +26,7 @@ td {
 th {
   color: lightgray;
   background-color: #4c4c4c;
+}
+body {
+  background-color: linen;
 }
