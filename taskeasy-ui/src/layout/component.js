@@ -1,7 +1,8 @@
 import React, {Component} from 'react'
 import 'bootstrap/dist/css/bootstrap.css'
-import { Table } from 'reactstrap'
 import axios from 'axios'
+import { Table } from 'reactstrap'
+
 import './container.css'
 
 export class Layout extends Component {
